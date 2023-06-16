@@ -75,13 +75,6 @@
    "endpoint":"serenityflower",
    "order":"https",
    "demo":"https://qobilto.my.id/demo/serenityflower?to=Nama+Tamu"
-   },
-   {
-   "title":"Romansa",
-   "thumb":"https://i.ibb.co/12bvtXq/ct12.jpg",
-   "endpoint":"romansa",
-   "order":"https",
-   "demo":"https://qobilto.my.id/demo/romansa?to=Nama+Tamu"
    }
 ]
 
